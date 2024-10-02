@@ -18,7 +18,7 @@
    <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-context</artifactId>
-        <version>5.3.30</version> <!-- Specify the latest version -->
+        <version>6.3.30</version> <!-- Specify the latest version -->
     </dependency>
 
   </dependencies>
